@@ -1,0 +1,15 @@
+.thumbnail img {
+    width:100%;
+}
+
+.card .caption-full {
+    padding: 9px;
+}
+
+.card {
+    margin-bottom: 15px; 
+}
+
+#delete-form {
+    display: inline;
+}
